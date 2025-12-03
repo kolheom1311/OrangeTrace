@@ -34,9 +34,10 @@ OrangeTrace is a modern, full-stack web application built with Next.js and Fireb
 
 | Name | Role/Contribution | Work Done | Key Technologies | Project Focus | Notes |
 |------|------------------|----------|----------------|--------------|-------|
-| [Om Kolhe](https://orange-trace.vercel.app/about#cto) | CTO | Designed core architecture, defined data-flow, standardized model interfaces, supervised system design standards | Next.js, TypeScript, System Design | AI traceability, scalability, platform reliability | Leading long-term structural decisions, own design docs pending |
-| Mohit Patil | CEO | Led backend engineering, integrated AI model pipeline, defined API standards, owned authentication & database structure | Node.js, Express, Firebase, Firestore, Python, OpenCV, CNN | AI-driven orange classification & freshness analysis | Backend roadmap and future API expansion to be documented |
+| [Om Kolhe](https://orange-trace.vercel.app/about#cto) | CTO | Platform architecture ownership, designed multi-role system boundaries, defined Firestore collection schema, structured QR traceability pipeline, set scalability standards | Next.js, TypeScript, Firebase, System Design | AI supply-chain traceability, reliability, system scalability | Design documentation and data contracts pending |
+| [Mohit Patil](https://orange-trace.vercel.app/about#ceo) | CEO | Backend engineering leadership, implemented Firebase Authentication (login, registration, email verification, sessions), built marketplace backend, integrated Razorpay payments, structured real-time order tracking, defined analytics data flow, supervised ML pipeline integration | Node.js, Express, Firebase (Firestore, Storage, Auth), Razorpay, Python, OpenCV, CNN | Secure e-commerce, orange classification & freshness analysis, AI model integration | Backend roadmap and analytics spec to be documented |
 | Kshitij Sadegaonkar | Logo Designer | Created brand logo, color identity, and visual design direction for product recognition | Adobe Illustrator, Figma | Brand Identity & Visual Assets | UI branding guideline draft to be added |
+
 
 
 ## 🛠️ Getting Started
