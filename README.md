@@ -32,10 +32,12 @@ OrangeTrace is a modern, full-stack web application built with Next.js and Fireb
 
 ## 👨‍💻 Team Members
 
-| Name                |
-| ------------------- |
-| [Om Kolhe](https://orange-trace.vercel.app/about#cto)            |
-| [Mohit Patil](https://orange-trace.vercel.app/about#ceo)        |
+| Name | Role/Contribution | Work Done | Key Technologies | Project Focus | Notes |
+|------|------------------|----------|----------------|--------------|-------|
+| [Om Kolhe](https://orange-trace.vercel.app/about#cto) | CTO | Designed core architecture, defined data-flow, standardized model interfaces, supervised system design standards | Next.js, TypeScript, System Design | AI traceability, scalability, platform reliability | Leading long-term structural decisions, own design docs pending |
+| Mohit Patil | CEO | Led backend engineering, integrated AI model pipeline, defined API standards, owned authentication & database structure | Node.js, Express, Firebase, Firestore, Python, OpenCV, CNN | AI-driven orange classification & freshness analysis | Backend roadmap and future API expansion to be documented |
+| Kshitij Sadegaonkar | Logo Designer | Created brand logo, color identity, and visual design direction for product recognition | Adobe Illustrator, Figma | Brand Identity & Visual Assets | UI branding guideline draft to be added |
+
 
 ## 🛠️ Getting Started
 
