@@ -34,8 +34,8 @@ OrangeTrace is a modern, full-stack web application built with Next.js and Fireb
 
 | Name | Role/Contribution | Work Done | Key Technologies | Project Focus | Notes |
 |------|------------------|----------|----------------|--------------|-------|
-| [Om Kolhe](https://orange-trace.vercel.app/about#cto) | CTO | Defined system architecture, mapped multi-role data domains, structured QR trace flow | Next.js, TypeScript, Firebase | Traceability core & payment layer stability | Docs pending |
-| [Mohit Patil](https://orange-trace.vercel.app/about#ceo) | CEO | Built auth and marketplace backend, implemented order tracking hooks, integrated ML endpoints | Node.js, Express, Firebase, Python, OpenCV, CNN | E-commerce backend & AI freshness engine | Roadmap pending |
+| [Om Kolhe](https://orange-trace.vercel.app/about#cto) | Full Stack (Backend and Middlewares with Fronted Optimisation) | Defined system architecture, mapped multi-role data domains, structured QR trace flow | Next.js, TypeScript, Firebase | Traceability core & payment layer stability | Docs pending |
+| [Mohit Patil](https://orange-trace.vercel.app/about#ceo) | Full Stack (Frontend and Backend, Middleware debugging) | Built auth and marketplace backend, implemented order tracking hooks, integrated ML endpoints | Next.js, TypeScript, Firebase | E-commerce backend & AI freshness engine | Roadmap pending |
 | Kshitij Sadegaonkar | Logo Designer | Created brand logo, color identity, and visual design direction for product recognition | Adobe Illustrator, Figma | Brand Identity & Visual Assets | UI branding guideline draft to be added |
 
 
